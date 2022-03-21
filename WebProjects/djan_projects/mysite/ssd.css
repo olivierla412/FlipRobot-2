@@ -1,0 +1,12 @@
+h4{
+    color: aqua;
+}
+img{
+    float: right;
+    margin: 1em;
+    width: 200px;
+    height: 200px;
+}
+.v2{
+    float: left;
+}
