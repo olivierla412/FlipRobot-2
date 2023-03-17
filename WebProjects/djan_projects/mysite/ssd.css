@@ -10,3 +10,26 @@ img{
 .v2{
     float: left;
 }
+#bbc:hover{
+   background-color: blueviolet;
+   color: red;
+}
+#bbb{
+    float: right;
+    margin: 10px;
+    border-style: solid;
+    border-color: black;
+    padding: 5px;
+    size-adjust: auto;
+}
+#bbc{
+    float: left;
+    margin: 10px;
+    border-style: solid;
+    border-color: black;
+    padding: 5px;
+    size-adjust: auto;
+}
+#bbc:hover{
+    background: white;
+}
